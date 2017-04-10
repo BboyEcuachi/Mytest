@@ -1,6 +1,6 @@
 # catkin
 
-catkin is [the ROS oficial build system](http://wiki.ros.org/catkin). Combines CMake macros and python scripts and it is responsible of targets or excecutable files generation from source code. Holaaa
+catkin is [the ROS oficial build system](http://wiki.ros.org/catkin). Combines CMake macros and python scripts and it is responsible of targets or excecutable files generation from source code. Holaaa. cualquier cosa jejejeje.
 
 See also:
 
